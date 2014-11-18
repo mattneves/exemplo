@@ -6,5 +6,6 @@ public class pessoal {
 	public int numeros;
 	public String cidade; 
 	public int algumacoisa;
+	public String hahaha;
 
 }
