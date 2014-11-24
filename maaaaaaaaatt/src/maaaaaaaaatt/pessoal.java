@@ -8,5 +8,5 @@ public class pessoal {
 	public int algumacoisa;
 	public String hahaha;
 	public String hohoho;
-
+	public String hehehe;
 }
